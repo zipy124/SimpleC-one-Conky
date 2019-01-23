@@ -1,5 +1,5 @@
 # SimpleC - One Conky
-[screen1](screenshot.png)
+![screen1](screenshot.png)
 Simple Conky Theme with 4 widgets: 
 -Weather
 -Clock/Calendar 
