@@ -4,7 +4,7 @@ Simple Conky Theme with 4 widgets:
 -Weather
 -Clock/Calendar 
 -System Info and Net Info
--System Graph Monitor
+-System Graph Monitor (battery will show as 0W when on A/C power)
 ## Requirements
 Conky installed
 ## Install
